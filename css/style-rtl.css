@@ -1,0 +1,22 @@
+[dir='rtl'] .products {
+    float: right;
+  
+}
+[dir='rtl'] .products-filter {
+    float: left;
+}
+[dir='rtl'] .product-item-img{
+    margin-right: 0;
+    margin-left: 10px
+}
+[dir='rtl'] .product-item-desc {
+    margin-left: 10px;
+} 
+[dir='rtl'] .add-to-cart {
+    margin: 0;
+}
+[dir='rtl'] .product-item-action .favorite{
+    margin-right: auto;
+    margin-left: 0;
+}
+/* لازم تعكس كل الجهات وكل الصفحات */
